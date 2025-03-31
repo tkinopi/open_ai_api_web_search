@@ -1,0 +1,2 @@
+# open_ai_api_web_search
+openAiのapi経由でweb検索を行うためのコード
